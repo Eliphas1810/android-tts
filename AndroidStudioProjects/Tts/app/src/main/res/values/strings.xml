@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tts</string>
+
+    <string name="speak">Speak</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="text_to_speech_is_busy">TextToSpeech is busy now.</string>
+
+</resources>
