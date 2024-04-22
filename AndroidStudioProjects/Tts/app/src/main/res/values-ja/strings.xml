@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tts</string>
+
+    <string name="speak">読み上げ</string>
+
+    <string name="cancel">キャンセル</string>
+
+    <string name="text_to_speech_is_busy">読み上げ機能が混雑しています。</string>
+
+</resources>
